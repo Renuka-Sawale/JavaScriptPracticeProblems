@@ -1,3 +1,4 @@
+//Read a single digit number and write the number in word using case
 "use strict";
 
 const ps = require("prompt-sync")
